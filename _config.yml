@@ -1,0 +1,14 @@
+title: Botiquin Verde, Vida sana en materas
+description: Blog Botiquin Verde, Vida sana en materas
+theme: minima
+
+header_pages:
+  - index.md
+  - comunidad.md
+  - problematica1.md
+  - problematica2.md
+  - justificacion.md
+  - objetivos.md
+  - plan.md
+
+markdown: kramdown

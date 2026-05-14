@@ -1,0 +1,76 @@
+---
+---
+
+@import "minima";
+
+/* 🌍 Estilo general */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f7f9f8;
+  color: #2c2c2c;
+}
+
+/* 🔝 Barra superior */
+.site-header {
+  background-color: #2e7d32; /* verde */
+  border-bottom: none;
+}
+
+.site-title, .site-nav a {
+  color: white !important;
+  font-weight: bold;
+}
+
+/* 🧭 Menú */
+.site-nav a:hover {
+  color: #a5d6a7 !important;
+}
+
+/* 📄 Contenido */
+.page-content {
+  max-width: 900px;
+  margin: auto;
+}
+
+/* 📌 Títulos */
+h1 {
+  color: #1b5e20;
+  border-bottom: 3px solid #a5d6a7;
+  padding-bottom: 5px;
+}
+
+h2 {
+  color: #1565c0; /* azul */
+}
+
+h3 {
+  color: #ef6c00; /* naranja */
+}
+
+/* 📦 Tarjetas (para secciones) */
+section {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+/* ✨ Listas */
+ul li {
+  margin-bottom: 8px;
+}
+
+/* 📊 Destacar problemáticas */
+.problema {
+  background: #fff3e0;
+  border-left: 5px solid #ef6c00;
+  padding: 15px;
+}
+
+/* 🌱 Comunidad */
+.comunidad {
+  background: #e8f5e9;
+  border-left: 5px solid #2e7d32;
+  padding: 15px;
+}
