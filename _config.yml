@@ -12,3 +12,6 @@ header_pages:
   - plan.md
 
 markdown: kramdown
+
+sass:
+  style: compressed
