@@ -12,11 +12,11 @@
 
 <div class="container">
 
-# 🌿 Inicio
+🌿 Inicio
 
 <div class="card">
 ¿sabías que hay muchas dolecias comunes que se pueden aliviar con plantas cultivadas en casa? En este mundo donde cada vez somos mas dependientes de fármacos para cualquier molestia, volver a lo natural no es solo una alternativa, sino que también representa para los seres humanos una manera de cuidar nuestra salud, nuestra economía y también el medio ambiente. 
-Este blog nace como una experiencia familiar en la que decidimos crear nuestro propio BOQUITÍN VERDE, sembrando plantas medicinales en el patio de nuestra casa; con este proceso queremos aprender, adoptar hábitos más saludables y generar consciencia sobre el uso responsable de los recursos, a demás conectamos con el compromiso social de aportar acciones que puedan inspirar a otras personas a cuidar su salud de manera más natural usando plantas como : manzanilla, hierbabuena, sábila, toronjil y romero.
+Este blog nace como una experiencia familiar en la que decidimos crear nuestro propio BOQUITÍN VERDE, sembrando plantas medicinales en el patio de nuestra casa; con este proceso queremos aprender, adoptar hábitos más saludables y generar consciencia sobre el uso responsable de los recursos, a demás conectamos con el compromiso social de aportar acciones que puedan inspirar a otras personas a cuidar su salud de manera más natural usando plantas.
 
 </div>
 
