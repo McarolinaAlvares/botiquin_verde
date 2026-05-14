@@ -1,14 +1,20 @@
-# Comunidad y georreferenciación
+<link rel="stylesheet" href="/botiquin_verde/assets/css/styles.css">
 
-<section class="comunidad">
+<div class="navbar">
+  <a href="index.html">Inicio</a>
+  <a href="comunidad.html">Comunidad</a>
+</div>
 
-## Contexto comunitario
+<div class="container">
+
+# 🌿 Comunidad
+
+<div class="card">
+
+![Huerta](/botiquin_verde/assets/img/comunidad.jpg)
+
 Descripción de la comunidad.
 
-## Ubicación geográfica
-Información del territorio.
+</div>
 
-## Características poblacionales
-Datos relevantes.
-
-</section>
+</div>
